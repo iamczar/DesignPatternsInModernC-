@@ -1,3 +1,0 @@
-/home/czar/dev/DesignPatternsInModernCpp/build/CMakeFiles/rebuild_cache.dir
-/home/czar/dev/DesignPatternsInModernCpp/build/CMakeFiles/main.dir
-/home/czar/dev/DesignPatternsInModernCpp/build/CMakeFiles/edit_cache.dir
